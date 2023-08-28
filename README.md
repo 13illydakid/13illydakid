@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello World 👋 i am Billy
 
+
+
+# my Hobbies include:
+- speed cubing
+- 
+# Fun Facts about Me:
+- i once put on 75 lbs in the span of 8 months following a long gym hiatus.
+- 
 <!--
 **13illydakid/13illydakid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
