@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer who has recently discovered their seemingly innate passion for Data Collection and Data Analysis.
 
-This is my Portfolio(https://13illydakid.github.io/portfolio/)
+my Portfolio: https://13illydakid.github.io/portfolio/
 
 # my Hobbies include:
 - speed cubing
