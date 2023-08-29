@@ -1,15 +1,19 @@
-### Hello World 👋 i am Billy
+### Hello World 👋 I am Billy
 
+I am a Full Stack Developer who has recently discovered their seemingly innate passion for Data Collection and Data Analysis.
 
 
 # my Hobbies include:
 - speed cubing
-- 
+- teaching myself piano
+
+  
 # Fun Facts about Me:
 - i once put on 75 lbs in the span of 8 months following a long gym hiatus.
 - i started taking classes at my highschool when i was 11.
-- 
+- i have been watching anime frequently since i was 4.
 
+### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
