@@ -7,6 +7,7 @@ my Portfolio: https://13illydakid.github.io/portfolio/
 # my Hobbies include:
 - speed cubing
 - teaching myself piano
+- duolingo
 
   
 # Fun Facts about Me:
