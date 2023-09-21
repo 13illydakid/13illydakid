@@ -13,7 +13,7 @@ my Portfolio: https://13illydakid.github.io/portfolio/
 # Fun Facts about Me:
 - i once put on 75 lbs in the span of 8 months following a long gym hiatus.
 - i started taking classes at my highschool when i was 11.
-- i have been watching anime frequently since i was 4.
+- i began to watch anime regularly at the age of 4.
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
