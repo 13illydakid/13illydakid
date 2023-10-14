@@ -1,8 +1,8 @@
-### Hello World 👋 I am Billy
+### Hello 👋 
 
-I am a Full Stack Developer who has recently discovered their seemingly innate passion for Data Collection and Data Analysis.
+I am a Full Stack Software Engineer who has recently discovered their seemingly innate passion for Data Collection and Data Analysis.
 
-my Portfolio: https://13illydakid.github.io/portfolio/
+my Portfolio: https://billychiu.dev
 
 # my Hobbies include:
 - speed cubing
