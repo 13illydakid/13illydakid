@@ -2,7 +2,7 @@
 
 I am a Full Stack Software Engineer who has recently discovered their seemingly innate passion for Data Collection and Data Analysis.
 
-my Portfolio: https://billychiu.dev
+
 
 # my Hobbies include:
 - speed cubing
