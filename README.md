@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-I am a Full Stack Software Engineer who has recently discovered their seemingly innate passion for Data Collection and Data Analysis.
+I am a Full Stack Software Engineer who has a passion for Data Collection and Data Analysis.
 
 
 
