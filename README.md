@@ -4,7 +4,7 @@ I am a Full Stack Software Engineer who has a passion for Data Collection and Da
 
 
 
-# my Hobbies include:
+# My Hobbies include:
 - speed cubing
 - teaching myself piano
 - duolingo
