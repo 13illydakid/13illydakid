@@ -14,7 +14,7 @@ I am a Full Stack Software Engineer who has a passion for Data Collection and Da
 - I started taking classes at my highschool when i was 11.
 - I began to watch anime regularly at the age of 4.
 - I was on my highschool Football and Track & Field team for 3 years.
-- Lactose intolerant
+- I'm slightly lactose intolerant.
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
