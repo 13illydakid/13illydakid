@@ -13,7 +13,7 @@ I am a Full Stack Software Engineer who has a passion for Data Collection and Da
 - I once put on 75 lbs in the span of 8 months following a long gym hiatus.
 - I started taking classes at my highschool when i was 11.
 - I began to watch anime regularly at the age of 4.
-- I was on the 'Football' and 'Track & Field' team in highschool.
+- I was on my highschool Football and Track & Field team for 3 years.
 - Lactose intolerant
 
 ### Languages and Tools:
