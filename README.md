@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-I am a Full Stack Software Engineer who has a passion for Data Collection and Data Analysis.
+I am a Software Engineer who has a passion for Data Collection and Data Analysis.
 
 
 
@@ -9,12 +9,6 @@ I am a Full Stack Software Engineer who has a passion for Data Collection and Da
 - teaching myself piano
 - duolingo
   
-# Fun Facts about Me:
-- I once put on 75 lbs in the span of 8 months following a long gym hiatus.
-- I started taking classes at my highschool when i was 11.
-- I began to watch anime regularly at the age of 4.
-- I was on my highschool Football and Track & Field team for 3 years.
-- I'm slightly lactose intolerant.
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
