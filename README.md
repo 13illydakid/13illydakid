@@ -1,10 +1,5 @@
 ### Hello 👋 
 
-I am a Software Engineer who has a passion for Data Collection and Data Analysis.
-
-If I could travel back in time, I would repeat the same actions as before to see if the outcome will be the same.
-
-If I could go back a second time, I would want my memories erased accordingly to see if I would make the same actions as before.
 
 
 # My Hobbies include:
