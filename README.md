@@ -15,8 +15,6 @@
 
 ### 🚀 Snapshot
 - 🛠 Full‑stack experience (frontend emphasis) across React, Next.js, Node.js, and modern TypeScript ecosystems.
-- ⚙️ Rebuilt a production WordPress site using the MERN stack → 30% faster load times & 15% overall speed gain.
-- 📈 Implemented technical SEO improvements → +20% organic traffic uplift.
 - 🗃 Strong grounding in data accuracy & workflow optimization (100% data integrity in prior data engineering role).
 - 🎹 Passionate about interactive media (audio + 3D + algorithmic visualization).
 - 🧪 Practices: incremental delivery, thoughtful abstractions, measurable improvements.
