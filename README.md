@@ -86,18 +86,6 @@ I build maintainable frontends and full‑stack features that balance performanc
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <!-- Toggle after confirmation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=13illydakid&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13illydakid&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=13illydakid&theme=flat&no-frame=true&margin-w=8&margin-h=8"/>
-</p> -->
-
----
-
 ### 🎹 Personal / Fun
 - 🔧 Favorite build theme: interactive systems that give immediate feedback (music, puzzles, visualizers).
 - 🧠 Interested in: real-time rendering, algorithm education, developer tooling.
