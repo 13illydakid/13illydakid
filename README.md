@@ -98,13 +98,6 @@ I build maintainable frontends and full‑stack features that balance performanc
 
 ---
 
-### 🌐 Links
-- Portfolio: [billy-chiu.com](https://billy-chiu.com)
-- GitHub: [13illydakid](https://github.com/13illydakid)
-- LinkedIn: [Billy Chiu](https://www.linkedin.com/in/chiu-billy)
-
----
-
 ### 🎹 Personal / Fun
 - 🔧 Favorite build theme: interactive systems that give immediate feedback (music, puzzles, visualizers).
 - 🧠 Interested in: real-time rendering, algorithm education, developer tooling.
